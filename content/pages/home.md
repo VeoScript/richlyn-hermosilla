@@ -19,23 +19,21 @@ blocks:
           color: purple
           style: float
         title: Charming
-        text: >-
-          Aliquam blandit felis rhoncus, eleifend ipsum in, condimentum nibh.
-          Praesent ac faucibus risus, eu lacinia enim.
+        text: 'Cute, gwapa ug love kaayu ni choco.'
       - icon:
           name: BiLike
           color: primary
           style: float
-        title: This Is a Feature
-        text: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.
+        title: Responsible
+        text: >-
+          Kaya mag luto, lami muluto, katigo sa gawaing bahay ug love kaayu nako
+          si choco.
       - icon:
           name: BiPalette
           color: green
           style: float
-        title: Configurable Theme
-        text: >-
-          Edit global theme configuration with Tina. Change your theme's primary
-          color, font, or icon set.
+        title: Artistic
+        text: 'Kantigo mudrawing, musayaw, mukanta ug pinangga ko ni choco.'
     color: tint
     _template: features
   - quote: >-
