@@ -20,7 +20,7 @@ blocks:
           color: purple
           style: float
         title: Charming
-        text: Meeting every commitment with unwavering responsibility.
+        text: 'Effortlessly enchanting the world, one person at a time.'
       - icon:
           name: BiLike
           color: primary
