@@ -1,8 +1,9 @@
 ---
 title: Tina Cloud Starter
 blocks:
-  - headline: Welcome to the Richlyn Blog
-    text: "Kini na blog is para ni sa akong matag adlaw na kalipay, ug mag **ambak-ambak** pd ko kung nalipay kog duro \U0001F917\U0001F9F8❤️\n"
+  - headline: The blog of a student who strives to be a better version of herself
+    text: |
+      My daily LIFE, STUDY, LIFESTYLE, and CHAROT STORIES blogs.
     actions:
       - label: Get Started
         type: button
