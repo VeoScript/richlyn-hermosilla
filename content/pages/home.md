@@ -3,7 +3,7 @@ title: Tina Cloud Starter
 blocks:
   - headline: The blog of a student who strives to be a better version of herself
     text: |
-      My daily LIFE, STUDY, LIFESTYLE, and CHAROT STORIES blogs.
+      My daily **LIFE**, **STUDY**, **LIFESTYLE**, and **CHAROT STORIES** blogs.
     actions:
       - label: Get Started
         type: button
