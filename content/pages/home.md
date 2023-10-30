@@ -10,8 +10,8 @@ blocks:
         icon: true
         link: /posts
     image:
-      src: /uploads/unsplash-75EFpyXu3Wg.jpg
-      alt: Photo of palm trees at sunset by Adam Birkett
+      src: /uploads/184399206_2862613567389187_6947076209674944850_n.jpg
+      alt: Richlyn Hermosilla at the beach.
     color: default
     _template: hero
   - items:
