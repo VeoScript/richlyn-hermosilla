@@ -15,10 +15,10 @@ blocks:
     _template: hero
   - items:
       - icon:
-          name: BiCodeBlock
-          color: red
+          name: BiCool
+          color: purple
           style: float
-        title: Amazing Feature
+        title: Charming
         text: >-
           Aliquam blandit felis rhoncus, eleifend ipsum in, condimentum nibh.
           Praesent ac faucibus risus, eu lacinia enim.
