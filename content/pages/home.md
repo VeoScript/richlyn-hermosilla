@@ -35,10 +35,8 @@ blocks:
         text: Empowering dreams with boundless abilities.
     color: tint
     _template: features
-  - quote: >-
-      There are only two hard things in Computer Science: cache invalidation and
-      naming things.
-    author: Phil Karlton
+  - quote: Live your life to the fullest
+    author: Richlyn Hermosilla
     color: primary
     _template: testimonial
 ---
