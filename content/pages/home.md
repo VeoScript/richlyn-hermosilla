@@ -4,10 +4,6 @@ blocks:
   - headline: Welcome to the Richlyn Blog
     text: "Kini na blog is para ni sa akong matag adlaw na kalipay, ug mag **ambak-ambak** pd ko kung nalipay kog duro \U0001F917\U0001F9F8❤️\n"
     actions:
-      - label: Action Label
-        type: button
-        icon: true
-        link: /
       - label: Get Started
         type: button
         icon: true
