@@ -1,21 +1,16 @@
 ---
 title: Tina Cloud Starter
 blocks:
-  - headline: Welcome to the Tina Starter
-    text: >
-      This project is set up to show you the basics of working with Tina. You're
-      looking at the landing page, which pulls content from
-      `content/pages/home.md`, components from components/blocks, and puts them
-      all together in `pages/[filename].tsx`, all based on a config
-      `tina/config.tsx`.
+  - headline: Welcome to the Richlyn Blog
+    text: "Kini na blog is para ni sa akong matag adlaw na kalipay, ug mag **ambak-ambak** pd ko kung nalipay kog duro \U0001F917\U0001F9F8❤️\n"
     actions:
+      - label: Action Label
+        type: button
+        icon: true
+        link: /
       - label: Get Started
         type: button
         icon: true
-        link: /posts
-      - label: Read Blog
-        type: link
-        icon: false
         link: /posts
     image:
       src: /uploads/unsplash-75EFpyXu3Wg.jpg
