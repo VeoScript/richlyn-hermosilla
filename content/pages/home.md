@@ -32,7 +32,7 @@ blocks:
           color: green
           style: float
         title: Talented
-        text: 'Kantigo mudrawing, musayaw, mukanta ug pinangga ko ni choco.'
+        text: Empowering dreams with boundless abilities.
     color: tint
     _template: features
   - quote: >-
