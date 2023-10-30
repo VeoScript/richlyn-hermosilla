@@ -1,5 +1,5 @@
 ---
-title: Tina Cloud Starter
+title: Richlyn Hermosilla CMS
 blocks:
   - headline: The blog of a student who strives to be a better version of herself
     text: |
