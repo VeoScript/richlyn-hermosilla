@@ -20,7 +20,7 @@ blocks:
           color: purple
           style: float
         title: Charming
-        text: 'Cute, gwapa ug love kaayu ni choco.'
+        text: 'Effortlessly enchanting the world, one person at a time.'
       - icon:
           name: BiLike
           color: primary
@@ -33,7 +33,7 @@ blocks:
           name: BiPalette
           color: green
           style: float
-        title: Artistic
+        title: Talented
         text: 'Kantigo mudrawing, musayaw, mukanta ug pinangga ko ni choco.'
     color: tint
     _template: features
