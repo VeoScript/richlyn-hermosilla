@@ -26,9 +26,7 @@ blocks:
           color: primary
           style: float
         title: Responsible
-        text: >-
-          Kaya mag luto, lami muluto, katigo sa gawaing bahay ug love kaayu nako
-          si choco.
+        text: Meeting every commitment with unwavering responsibility.
       - icon:
           name: BiPalette
           color: green
